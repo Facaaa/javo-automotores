@@ -1,6 +1,6 @@
-# Baufest Tennis v2.0
+# Javeeeeto Automotores
 
-Aplicación Baufest Tennis desarrollada para el PEI de Fullstack React/Java
+App de Javo Automotores
 
 ### Scripts
 
